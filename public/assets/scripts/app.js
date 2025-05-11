@@ -1,5 +1,5 @@
  document.addEventListener('DOMContentLoaded', async () => {
-      const API_URL = 'https://didactic-space-spoon-945rj6gp56qh7w74-3000.app.github.dev/noticias';
+      const API_URL = 'https://cautious-space-rotary-phone-rv6qp75j4w4fppq9-3000.app.github.dev/noticias';
       const carrosselContainer = document.getElementById('carrossel-inner');
       const noticiasContainer = document.getElementById('noticias-container');
 
@@ -52,7 +52,7 @@
       const container = document.getElementById('noticia');
 
       try {
-        const response = await fetch(`https://didactic-space-spoon-945rj6gp56qh7w74-3000.app.github.dev/noticias/${noticiaId}`);
+        const response = await fetch(`https://cautious-space-rotary-phone-rv6qp75j4w4fppq9-3000.app.github.dev/noticias/${noticiaId}`);
         if (!response.ok) throw new Error('Notícia não encontrada.');
 
         const noticia = await response.json();
