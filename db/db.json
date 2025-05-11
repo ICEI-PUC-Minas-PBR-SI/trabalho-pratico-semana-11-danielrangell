@@ -1,18 +1,88 @@
 {
-  "usuarios": [
-    {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
-    },
-    {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
-    }
-  ]
+  "noticias": [
+      {
+        "id": 1,
+        "titulo": "Grave acidente na RJ-146 deixa cinco feridos",
+        "descricao": "Colisão entre veículos ocorreu na rodovia RJ-146, próximo a Trajano de Moraes.",
+        "conteudo": "Na tarde de 14 de abril de 2025, um grave acidente envolvendo dois veículos deixou cinco pessoas feridas na RJ-146, que liga Bom Jardim a Trajano de Moraes. Duas vítimas foram socorridas em estado grave e encaminhadas ao hospital local.",
+        "categoria": "Cidades",
+        "autor": "SF Notícias",
+        "destaque": true,
+        "data": "2025-04-14",
+        "imagem_pincipal": "/assets/img/acidente_rj146.png",
+        "imagens_complementares": [
+         
+        ]
+      },
+      {
+        "id": 2,
+        "titulo": "PM apreende drogas e arma em operação com cães farejadores",
+        "descricao": "Polícia Militar realiza operação e apreende entorpecentes e armamento em Bom Jardim.",
+        "conteudo": "Em 12 de abril de 2025, a Polícia Militar deflagrou uma operação em Bom Jardim com o apoio de cães farejadores. Durante a ação, foram apreendidos entorpecentes e uma arma de fogo. Cerca de 25 policiais participaram da operação.",
+        "categoria": "Segurança",
+        "autor": "SF Notícias",
+        "destaque": false,
+        "data": "2025-04-12",
+        "imagem_pincipal": "/assets/img/operacao_pm.png",
+        "imagens_complementares": [
+        
+        ]
+      },
+      {
+        "id": 3,
+        "titulo": "Bom Jardim celebra 132 anos com festa e eventos culturais",
+        "descricao": "Município comemora aniversário com programação especial para os moradores.",
+        "conteudo": "Em abril de 2025, Bom Jardim celebrou seus 132 anos de emancipação com uma série de eventos culturais, shows e atividades para a população. A programação incluiu apresentações musicais, exposições e atividades para crianças.",
+        "categoria": "Cultura",
+        "autor": "O Dia",
+        "destaque": true,
+        "data": "2025-04-10",
+        "imagem_pincipal": "/assets/img/aniversario_bomjardim.png",
+        "imagens_complementares": [ 
+          
+        ]
+      },
+      {
+        "id": 4,
+        "titulo": "Motociclista colide com caminhão na RJ-146",
+        "descricao": "Acidente deixou motociclista ferido após colisão com caminhão próximo ao bairro São Miguel.",
+        "conteudo": "Na manhã de 15 de abril de 2025, um motociclista ficou ferido após colidir com um caminhão na rodovia RJ-146, próximo ao bairro São Miguel. Ele foi socorrido por uma equipe do Corpo de Bombeiros e encaminhado ao hospital de Bom Jardim.",
+        "categoria": "Cidades",
+        "autor": "SF Notícias",
+        "destaque": false,
+        "data": "2025-04-15",
+        "imagem_pincipal": "/assets/img/motociclista_acidente.png",
+        "imagens_complementares": [
+        
+        ]
+      },
+      {
+        "id": 5,
+        "titulo": "Bom Jardim realiza mutirão de vacinação contra gripe",
+        "descricao": "Campanha imuniza centenas de moradores em diversos bairros da cidade.",
+        "conteudo": "A Prefeitura de Bom Jardim promoveu no último sábado (13) um mutirão de vacinação contra a gripe. Diversos postos de saúde foram abertos ao longo do dia e mais de 1.200 pessoas foram vacinadas, priorizando idosos e crianças.",
+        "categoria": "Saúde",
+        "autor": "Prefeitura de Bom Jardim",
+        "destaque": true,
+        "data": "2025-04-13",
+        "imagem_pincipal": "/assets/img/vacinacao_gripe.png",
+        "imagens_complementares": [
+     
+        ]
+      },
+      {
+        "id": 6,
+        "titulo": "Feira do Produtor movimenta economia local em Bom Jardim",
+        "descricao": "Evento reúne agricultores, artesãos e produtores locais na Praça 1º de Maio.",
+        "conteudo": "A tradicional Feira do Produtor voltou a movimentar a economia de Bom Jardim no domingo, 7 de abril. Agricultores familiares e artesãos comercializaram alimentos frescos, artesanato e produtos naturais, promovendo renda e integração comunitária.",
+        "categoria": "Economia",
+        "autor": "O Diário",
+        "destaque": false,
+        "data": "2025-04-07",
+        "imagem_pincipal": "/assets/img/feira_produtor.png",
+        "imagens_complementares": [
+        
+        ]
+      }
+    ]
 }
