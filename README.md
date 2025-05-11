@@ -1,21 +1,31 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19494687)
 # Trabalho Prático - Semana 11
 
 Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenvolvimento mais completo, típico de equipes profissionais. Nesse processo, vamos utilizar um **servidor backend simulado** com o **JSON Server** baseado em APIs RESTful. Um arquivo JSON funcionará como banco de dados e será processado pelo JSON Server que expõe uma API RESTful no servidor.
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Daniel Rangel Aguiar
+- Matricula: 865030
+- Proposta de projeto escolhida: Site de Notícias
+- Breve descrição sobre seu projeto: Fiz um site de notícias da minha cidade natal que é Bom Jardim no Rio de Janeiro.
 
 **Print do teste da API com visualização do JSON**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](/public/assets/img/image.png)
 
 **Print da aba NETWORK com requisições Fetch/XHR**
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](/public/assets/img/image-1.png)
+
+**Print da Tela Inicial**
+![alt text](/public/assets/img/image-2.png)
+![alt text](/public/assets/img/image-3.png)
+![alt text](/public/assets/img/image-4.png)
+
+**Print da Tela de Detalhes**
+![alt text](/public/assets/img/image-5.png)
+![alt text](/public/assets/img/image-6.png)
 
 ## **Orientações Gerais**
 
