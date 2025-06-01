@@ -27,6 +27,9 @@ Nessa etapa, vamos evoluir o projeto anterior e contemplar um ambiente de desenv
 ![alt text](/public/assets/img/image-5.png)
 ![alt text](/public/assets/img/image-6.png)
 
+**Print do gráfico de pizza por categoria**
+![image](https://github.com/user-attachments/assets/67f6a7e2-0af5-410a-ba25-ccb251ad930f)
+
 ## **Orientações Gerais**
 
 Nesse projeto você vai encontrar a seguinte estrutura base:
